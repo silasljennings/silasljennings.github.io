@@ -1111,6 +1111,7 @@ pre {
 
 #nav-search-icon {
   display: inline-block;
+  padding-right: 1.20rem;
 }
 #nav-search-text {
   display: none;
