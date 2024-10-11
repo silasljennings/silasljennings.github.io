@@ -176,6 +176,7 @@ img {
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
   font-size: 1.125rem;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .navbar-custom .navbar-brand-logo {
