@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About the Author
+subtitle: The Mind Behind Dev Deviants
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# About Me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I’m [Your Name], a software engineer exploring creative applications of technology. This blog, **DevDeviants**, is where I document the projects I build—some practical, some experimental, but all pushing the boundaries of what’s possible with code.
 
-What else do you need?
+The name **DevDeviants** reflects my approach: breaking away from the expected, exploring unconventional solutions, and building things that don’t always follow the standard playbook. I work across different tech stacks, choosing tools based on what best fits the project rather than sticking to the conventional route. Some of my projects are purely for exploration, while others tie directly into businesses I’m building. Either way, the goal is to create something unique and functional.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you're into unconventional tech projects, building from scratch, or discussing ideas that don’t fit the usual mold, feel free to reach out. Always open to interesting conversations.
