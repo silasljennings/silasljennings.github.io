@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About the Author
+subtitle: The Mind Behind Dev Deviants
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# About Me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I’m Luke Jennings, a software engineer exploring creative applications of technology. This blog, **Dev Deviants**, is where I document the projects I build. These projects could be practical solutions, experimental designs, or creative endeavors; however, they all push the boundaries of my mind and what’s possible with code.
 
-What else do you need?
+The name **Dev Deviants** reflects my approach: breaking away from the expected, exploring unconventional solutions, and building things that don’t always follow the standard playbook. I work across different tech stacks, choosing tools based on what I feel best fits the project rather than sticking to the conventional route. On this blog you will find I try a multitude of stacks, integrations, and infrastructures. I don't always build things the "best way", but I do look to build a version of the product that can iteratively become the intended outcome. 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Some of my projects are purely for exploration, while others tie directly into businesses I’m building. Ultimately, the goal is to create something unique, functional, and fun. If you're into unconventional tech projects, building from scratch, learning as you go, or discussing ideas that don’t fit the usual mold, feel free to subscribe to the blog or reach out. I'm always open to interesting conversations with fellow deviants :).
