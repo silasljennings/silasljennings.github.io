@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Dev Converters
-subtitle: Simplifying Development Workflows with a Multi-Utility Web Conversion Tool
-cover-img: /assets/img/devconverters/devconverters-page.png
+subtitle: 
 thumbnail-img: /assets/img/devconverters/devconverters-logo.png
 share-img: /assets/img/devconverters/devconverters-logo.png
 tags: [devconverters, React, NextJS, Tailwind, Conversion Tools, Cashboard App ]
