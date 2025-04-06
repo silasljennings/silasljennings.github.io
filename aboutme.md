@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About the Author
 subtitle: The Mind Behind Dev Deviants
 ---
