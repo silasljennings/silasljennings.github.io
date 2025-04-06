@@ -1,8 +1,20 @@
+---
+layout: post
+title: Dirty Santa Gifts
+subtitle: 
+thumbnail-img: assets/img/dirty-santa-gift/dsg-logo-trans-bg.png
+share-img: assets/img/dirty-santa-gift/dsg-logo-trans-bg.png
+tags: [Dirty Santa Gifts, React, NodeJS, Tailwind, Christmas, Santa Tracker, Google Cloud, Cashboard App]
+comments: true
+mathjax: true
+author: Luke Jennings
+---
+
 # Introducing [dirtysantagift.com](https://dirtysantagift.com): A Journey to Building a Holiday E-Commerce Brand
 
 ![Dirty Santa Gift Logo](/assets/img/dirty-santa-gift/dsg-logo-words-white-bg.png)
 
-A year and a half ago, while I was deeply immersed in the development of my iOS application for Cashboard App Inc., I found myself at a crossroads. As a creator, I’m always looking for new challenges, new areas to explore, and new ways to test my skills. Many creators face this urge throughout building and sometimes you must indulge these urges should they intuitively linger. Additionally, I had been dabbling with the thought of some form of e-commerce for a long time, and dropshipping, in particular, had always caught my attention since it seemed to have the lowest threshold needed for capital. And yes, I know the stigma that dropshipping somewhat holds.
+A year and a half ago, while I was deeply immersed in the development of my iOS application for [Cashboard App Inc.](https://cashboardapp.co), I found myself at a crossroads. As a creator, I’m always looking for new challenges, new areas to explore, and new ways to test my skills. Many creators face this urge throughout building and sometimes you must indulge these urges should they intuitively linger. Additionally, I had been dabbling with the thought of some form of e-commerce for a long time, and dropshipping, in particular, had always caught my attention since it seemed to have the lowest threshold needed for capital. And yes, I know the stigma that dropshipping somewhat holds.
 
 At first, it wasn’t about a grand vision or a business plan. It wasn’t even a consideration to pivot. It was more about curiosity, a desire to learn something new, and an opportunity to search new avenues towards revenue. I was interested in understanding the mechanics behind setting up an online store, handling transactions, and navigating the complexities of running a business with physical assets and not just software. I had no expectations and no big dreams of becoming an online retail mogul. Honestly, I didn’t even think I’d sell a single item. However, I did think the knowledge would benefit me down the road regarding other brands I wanted to build in the future, and I knew it felt like the right thing to learn at the time.
 

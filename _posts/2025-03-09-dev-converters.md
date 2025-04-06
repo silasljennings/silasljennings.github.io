@@ -20,7 +20,7 @@ author: Luke Jennings
 
 ## Why I Built Dev Converters
 
-I created Dev Converters as a direct response to the challenges I encountered while developing for my startup, [Cashboard App Inc](https://www.cashboardapp.co/) In short, the Cashboard app allows companies to schedule offer lotteries for their products at any selected location. During the development process, I frequently needed to validate various aspects of the technology, such as timestamp formatted data and geo coordinates used for the locations of the lotteries. I also had to generate fake data that utilized these same types to simulate the delivery of the products in the lotteries.
+I created Dev Converters as a direct response to the challenges I encountered while developing for my startup, [Cashboard App Inc.](https://www.cashboardapp.co/) In short, the Cashboard app allows companies to schedule offer lotteries for their products at any selected location. During the development process, I frequently needed to validate various aspects of the technology, such as timestamp formatted data and geo coordinates used for the locations of the lotteries. I also had to generate fake data that utilized these same types to simulate the delivery of the products in the lotteries.
 
 The tools I was using for this validation were spread across multiple websites. Here are just a few that I used regularly:
 - [Epoch Converter](https://www.epochconverter.com/)
