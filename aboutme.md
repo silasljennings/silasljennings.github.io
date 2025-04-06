@@ -6,7 +6,7 @@ subtitle: The Mind Behind Dev Deviants
 
 # About the Author
 
-![Luke-Jennings](/assets/img/about/about-me-1.jpg)
+![Luke-Jennings](/assets/img/about/about-me.jpg)
 
 
 I’m Luke Jennings, a software engineer exploring creative applications of technology. This blog, **Dev Deviants**, is where I document the projects I build. These projects could be practical solutions, experimental designs, or creative endeavors; however, they all push the boundaries of my mind's understanding of what could be possible with code.
