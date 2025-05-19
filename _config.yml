@@ -54,10 +54,10 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: silasljennings
   github: silasljennings
-  twitter: lukej_41
+#  twitter: lukej_41
   linkedin: silasljennings
   #instagram: silasljennings
-  twitch: silasljennings
+#  twitch: silasljennings
   # patreon: DeanAttali
   # youtube: "@daattali"
   # whatsapp: 15551212
@@ -96,12 +96,12 @@ rss-description: Stay up to date with devdeiants.com posts.
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+#  twitter: true
+#  facebook: true
   linkedin: true
-  instagram: true
+#  instagram: true
   github: true
-  twitch: true
+#  twitch: true
   vk: false
 
 # How to display the link to your website in the footer
